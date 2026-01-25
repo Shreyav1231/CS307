@@ -4,5 +4,5 @@ Hello World
 
 It's a beautiful world.
 
-## Group 6 - 
+## Group 6 
 Gabriel Halstead, Minwoo (Daniel) Park, Neha Gogineni, Shreya Venkatraman, Tory Temeles
