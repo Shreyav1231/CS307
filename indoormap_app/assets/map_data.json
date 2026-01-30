@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "map_image": "hilly6-floorplan.png",
+  "anchors": [
+    {
+      "id": "A1",
+      "name": "SW Corner",
+      "gps": [40.427386, -86.925355],
+      "pixel": [200, 300]
+    },
+    {
+      "id": "A2",
+      "name": "NE Corner",
+      "gps": [40.427486, -86.925255],
+      "pixel": [1100, 600]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "650",
+      "name": "Room 650",
+      "pixel": [200, 300],
+      "type": "room"
+    },
+    {
+      "id": "675",
+      "name": "Lounge 675",
+      "pixel": [1100, 600],
+      "type": "poi"
+    },
+    {
+      "id": "Elevator",
+      "name": "Main Elevator",
+      "pixel": [150, 150],
+      "type": "transit"
+    }
+  ]
+}
